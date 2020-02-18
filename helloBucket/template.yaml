@@ -1,4 +1,5 @@
-# Static website using S3
+AWSTemplateFormatVersion: "2010-09-09"
+Description: Static website using S3
 
 Resources:
   S3Bucket:
