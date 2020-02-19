@@ -1,6 +1,4 @@
-## Slides
-
-<https://slides.com/yvesgurcan/cloudformation>
+These templates were showcased during a [presentation](https://www.meetup.com/Portland-Serverless-Architecture-Meetup/events/268360327/) on AWS CloudFormation. [Slides](https://slides.com/yvesgurcan/cloudformation) are available online.
 
 ## Templates
 
