@@ -1,3 +1,3 @@
-☁️ AWS CloudFormation by example
+☁️ AWS CloudFormation template examples
 
-Slides: https://slides.com/yvesgurcan/cloudformation
+Slides: <https://slides.com/yvesgurcan/cloudformation>
