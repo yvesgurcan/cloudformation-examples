@@ -1,5 +1,3 @@
-
-
 ## Slides
 
 <https://slides.com/yvesgurcan/cloudformation>
@@ -18,4 +16,4 @@ A template that pairs a Lambda function and a DynamoDB table.
 
 A template and repository with an API Gateway, a Lambda, and a DynamoDB table. Built programmatically with Stackery.
 
-<https://github.com/yvesgurcan/stackery-api-example>
+Available at: <https://github.com/yvesgurcan/stackery-api-example>
