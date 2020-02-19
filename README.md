@@ -8,7 +8,7 @@
 
 - Hello Bucket
 
-A simple template that create an S3 bucket configured to serve webpages.
+A simple template that creates an S3 bucket configured to serve webpages.
 
 - Lambda/Dynamo
 
